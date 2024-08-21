@@ -1,0 +1,1 @@
+# stans-assets-for-resume
