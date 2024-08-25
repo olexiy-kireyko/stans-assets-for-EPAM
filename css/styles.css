@@ -195,6 +195,7 @@ img {
 }
 
 .hero {
+  background-image: url(../img/hero-bg.png);
   background-size: 100%;
   background-repeat: no-repeat;
   padding-top: 150px;
